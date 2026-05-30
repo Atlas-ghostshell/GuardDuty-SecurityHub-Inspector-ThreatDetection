@@ -133,7 +133,7 @@ The runbook covers nine sections:
 | 8 — Post-Incident Documentation | IR report structure, MTTD/MTTR/MTTC/MTTE metrics |
 | 9 — Severity & Escalation Matrix | Severity tiers, response SLAs, notification paths, response posture |
 
-📄 [IR Runbook PDF](runbook/IR_Runbook_UnauthorizedAccess_S3_MaliciousIPCaller.pdf)
+📄 [IR Runbook PDF](screenshots/IR_Runbook_UnauthorizedAccess_S3_MaliciousIPCaller.pdf)
 
 **Core IR sequencing enforced throughout:**
 ```
